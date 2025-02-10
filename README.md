@@ -13,5 +13,8 @@ The **Equity News Research Tool** is an AI-powered research assistant that enabl
 1. Clone the repository:  
    ```sh
    git clone https://github.com/ashend99/equity-news-research-tool.git
+
+2. Run the application
+   ```sh
    cd equity-news-research-tool
    python -m streamlit run main.py
