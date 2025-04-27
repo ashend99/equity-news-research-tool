@@ -14,7 +14,10 @@ The **Equity News Research Tool** is an AI-powered research assistant that enabl
    ```sh
    git clone https://github.com/ashend99/equity-news-research-tool.git
 
-2. Run the application
+2. Setup .env file
+   Create an .env file and include your `GROQ_API_KEY`.
+
+4. Run the application
    ```sh
    cd equity-news-research-tool
    python -m streamlit run main.py
